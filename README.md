@@ -1,7 +1,9 @@
-Webpack Config File Demo
-========================
+Webpack Expose jQuery to Global Demo
+===================================
 
-Put all settings in `webpack.config.js`
+Some 3rd party requires the `jQuery` or `$` existed in global, and it's not easy with normal webpack.
+
+We can use the `expose-loader` to do this job, please note the `require.resolve("jquery")` part in `webpack.config.js`.
 
 ```
 npm install -g webpack
