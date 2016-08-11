@@ -1,5 +1,3 @@
-require('jquery');
-require("bootstrap-webpack");
-require('./index.css');
+const $ = require('jquery');
 
-document.write('it works!');
+$('#content').text('it works!');
