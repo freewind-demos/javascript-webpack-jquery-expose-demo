@@ -10,3 +10,8 @@ webpack
 ```
 
 Then open `index.html` in your browser.
+
+Documents
+---------
+
+1. https://www.npmjs.com/package/bootstrap-webpack
