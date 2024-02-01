@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "expose-loader": "^0.7.1",
-    "jquery": "^3.1.0"
+    "expose-loader": "0.7.1",
+    "jquery": "3.1.0"
   }
 }
